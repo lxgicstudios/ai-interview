@@ -1,5 +1,10 @@
 # ai-interview
 
+[![npm version](https://img.shields.io/npm/v/ai-interview.svg)](https://www.npmjs.com/package/ai-interview)
+[![npm downloads](https://img.shields.io/npm/dm/ai-interview.svg)](https://www.npmjs.com/package/ai-interview)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Generate interview questions tailored to your actual codebase. Great for hiring people who'll work on your specific stack.
 
 ## Install
