@@ -1,14 +1,45 @@
 {
   "name": "ai-interview",
   "version": "1.0.0",
-  "description": "Generate interview questions from your codebase using AI",
+  "description": "AI-powered interview prep - coding questions and mock interviews with GPT",
   "main": "dist/index.js",
-  "bin": { "ai-interview": "dist/cli.js" },
-  "scripts": { "build": "tsc" },
-  "keywords": ["interview", "questions", "hiring", "ai", "cli", "codebase"],
+  "bin": {
+    "ai-interview": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "interview",
+    "coding",
+    "practice",
+    "questions",
+    "leetcode",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "preparation",
+    "hiring"
+  ],
   "license": "MIT",
-  "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1", "glob": "^10.3.0" },
-  "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
+  "dependencies": {
+    "commander": "^12.1.0",
+    "openai": "^4.73.0",
+    "ora": "^5.4.1",
+    "glob": "^10.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "@types/node": "^22.0.0"
+  },
   "author": "LXGIC Studios",
-  "repository": { "type": "git", "url": "https://github.com/lxgicstudios/ai-interview" }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lxgicstudios/ai-interview"
+  }
 }
