@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/ai-interview.svg)](https://www.npmjs.com/package/ai-interview)
 [![npm downloads](https://img.shields.io/npm/dm/ai-interview.svg)](https://www.npmjs.com/package/ai-interview)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-interview)](https://github.com/lxgic-studios/ai-interview/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Generate interview questions tailored to your actual codebase. Great for hiring people who'll work on your specific stack.
