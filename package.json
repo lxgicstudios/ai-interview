@@ -1,5 +1,5 @@
 {
-  "name": "ai-interview",
+  "name": "@lxgicstudios/ai-interview",
   "version": "1.0.0",
   "description": "AI-powered interview prep - coding questions and mock interviews with GPT",
   "main": "dist/index.js",
