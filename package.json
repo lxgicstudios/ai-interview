@@ -15,31 +15,38 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
+    "automation",
     "claude",
-    "llm",
-    "openai",
+    "cli",
+    "coding",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "documentation",
+    "generative-ai",
     "gpt",
     "interview",
-    "coding",
-    "practice",
-    "questions",
-    "leetcode",
-    "developer-tools",
-    "cli",
-    "automation",
-    "typescript",
+    "llm-optimized",
+    "modern-seo",
     "nodejs",
-    "preparation",
-    "hiring"
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-interview#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-interview"
+    "url": "https://github.com/LXGIC-Studios/ai-interview"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-interview/issues"
