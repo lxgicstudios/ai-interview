@@ -16,7 +16,7 @@
 
 # AI Interview
 
-solve specific development challenges with AI-powered insights.
+AI-powered coding interview prep — LeetCode problems, system design, and mock interviews. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-interview.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-interview)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-interview?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-interview)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered interview prep - coding questions and mock interviews with GPT.
+> AI-powered interview prep — coding questions and mock interviews with GPT.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
